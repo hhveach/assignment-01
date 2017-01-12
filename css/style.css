@@ -1,0 +1,55 @@
+body {
+  font-family: "Helvetica Neue";
+}
+
+#container {
+  width: 500px;
+  margin-left: auto;
+  margin-right: auto;
+  border: 4px black solid;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 25px;
+  padding-right: 25px;
+}
+
+h1 {
+  font-weight: 600;
+  font-family: "Helvetica Neue";
+  margin-bottom: 3px;
+  font-style: italic;
+}
+
+h2 {
+  font-weight: 300;
+  font-family: "Helvetica Neue";
+  margin-top: 0px;
+  color: maroon;
+}
+
+.mural img {
+  display: block;
+  width: 100%;
+}
+
+}
+.exhibit {
+  font-size: 21px;
+}
+
+.sponsors {
+  font-size: 14px;
+}
+
+.sponsors img {
+  width: 140px;
+}
+
+.footer {
+  font-size: 10px;
+}
+
+.footer img {
+  display: block;
+  width: 100%;
+}
